@@ -1,4 +1,4 @@
 # Define the variable board below.
 def 
-  tic-tac-toe
+  tic-tac-toe =
 end
