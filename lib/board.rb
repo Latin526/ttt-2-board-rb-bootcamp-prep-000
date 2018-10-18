@@ -1,6 +1,6 @@
 # Define the variable board below.
 def
-board = Array.new [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 row[1] = "X"
 end
 
